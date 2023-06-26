@@ -1,5 +1,5 @@
 # Frontend Pagination (Description)
-This is a custom pagination in React where we get a certain number of fetched posts per page.
+This is a custom pagination in React where we get a certain number of fetched posts per page. The posts were fetched from a fake API site ([Link]([https://cozy-biscotti-80814f.netlify.app](https://jsonplaceholder.typicode.com/))) that consists of dummy user posts and other metadata. 
 
 Click here for app demo: [Link](https://cozy-biscotti-80814f.netlify.app)
 
